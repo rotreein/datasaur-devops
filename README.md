@@ -9,7 +9,7 @@ Deployment services on EKS Cluster, including provisiong VPC, Security Group, IA
 * AWS : VPC, Security Grouup, IAM , EKS, Internet Gateway
 * Ingress Controller : kong
 * Certificate: cert-manager
-* Terraform
+* Infrastrutur as Code: Terraform
 
 
 ## Repository
@@ -41,3 +41,9 @@ The DNS name hello-ts-datasaur.geeksops.com CNAME to ELB ( AWS )
 Acces URL via browser
 
 ![img](img/letsencrypt-cert.png)
+
+<br/>
+
+Sample resources deployment on EKS
+
+![img](img/k8s.png)
