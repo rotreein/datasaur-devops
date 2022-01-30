@@ -24,4 +24,8 @@ Deployment services in EKS Cluster, including provisiong VPC, Security Group, IA
 
 
 ## Deployment
-* Build to EKS Cluster
+* deploy  hello-worl service to EKS Cluster
+
+
+## How to Access sample deployment
+URL: https://hello-ts-datasaur.geeksops.com
