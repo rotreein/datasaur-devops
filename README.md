@@ -16,3 +16,11 @@ Deployment services in EKS Cluster, including provisiong VPC, Security Group, IA
 
 * 
 
+
+## Provisioning
+* EKS : https://github.com/rotreein/ds-infra/runs/4995320735?check_suite_focus=true
+* Security Group: 
+
+
+## Deployment
+* Build to EKS Cluster
