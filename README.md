@@ -14,7 +14,8 @@ Deployment services in EKS Cluster, including provisiong VPC, Security Group, IA
 
 ## Repository
 
-* 
+* Infrastructure Repository: https://github.com/rotreein/ds-infra
+* Deployment Respository: https://github.com/rotreein/typescript-starter/
 
 
 ## Provisioning
