@@ -20,12 +20,18 @@ Deployment services in EKS Cluster, including provisiong VPC, Security Group, IA
 
 ## Provisioning
 * EKS : https://github.com/rotreein/ds-infra/runs/4995320735?check_suite_focus=true
-* Security Group: 
 
 
 ## Deployment
-* deploy  hello-worl service to EKS Cluster
+* Sample depleoyment to EKS Cluster: https://github.com/rotreein/typescript-starter/actions/runs/1768672467
 
 
-## How to Access sample deployment
-URL: https://hello-ts-datasaur.geeksops.com
+## How to Access service
+you can access via curl / browser. URL: https://hello-ts-datasaur.geeksops.com
+* curl -v https://hello-ts-datasaur.geeksops.com
+
+## Evidence
+
+The DNS name hello-ts-datasaur.geeksops.com CNAME to ELB ( AWS )
+
+![img](img/dns.png)
